@@ -23,8 +23,6 @@ This project uses framer-motion animation resources, built in a traditional way.
 * Styled-components
 * Framer-Motion
 
-## 🔧 Installations
-
 ## 🛠️ Built with
 
 * Visual Studio Code
