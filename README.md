@@ -7,7 +7,7 @@ Click to watch the video on youtube
 
 <hr>
 
-# PORTFOLIO
+# TRAVEL AGENCY
 
 ## 🚀 Starting
 
