@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travel-Agency/static/css/main.d33dd536.css",
+    "main.js": "/Travel-Agency/static/js/main.0c7dafee.js",
+    "static/media/home.mp4": "/Travel-Agency/static/media/home.02d80a9622967845ce2b.mp4",
+    "static/media/trip.mp4": "/Travel-Agency/static/media/trip.6de29c0edf2599f91200.mp4",
+    "static/media/clients.mp4": "/Travel-Agency/static/media/clients.146dff03969b2d75fc70.mp4",
+    "static/media/pass.jpg": "/Travel-Agency/static/media/pass.e3754b7b3b263d39e9e8.jpg",
+    "static/media/hotel1.jpg": "/Travel-Agency/static/media/hotel1.364c7de7fcb3e7469584.jpg",
+    "static/media/contact.jpg": "/Travel-Agency/static/media/contact.60182b5501540984ccc7.jpg",
+    "static/media/airplane.png": "/Travel-Agency/static/media/airplane.b65fbaabf92764c0a6d8.png",
+    "static/media/family.jpg": "/Travel-Agency/static/media/family.036d7da30176adc30a3a.jpg",
+    "static/media/overlay.png": "/Travel-Agency/static/media/overlay.1ded8f85e2166c01d695.png",
+    "index.html": "/Travel-Agency/index.html",
+    "main.d33dd536.css.map": "/Travel-Agency/static/css/main.d33dd536.css.map",
+    "main.0c7dafee.js.map": "/Travel-Agency/static/js/main.0c7dafee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.0c7dafee.js"
+  ]
+}
