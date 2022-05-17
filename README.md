@@ -1,12 +1,8 @@
-<p align="center">
-<img src="" height="250px"/>
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/91747232/155849376-6d598bc6-b336-434b-a17b-1a793f316a07.gif" height="300px"/>
-</p>
-<hr>
 
 # Travel Agency Website
+
+Click to watch the video on youtube 
+[![Watch the video](https://user-images.githubusercontent.com/91747232/168910707-e581aded-aec7-4b04-8f61-7d71b3ec70e3.png)](https://www.youtube.com/watch?v=AWgop70g0ms)
 
 ## 🚀 Starting
 
@@ -14,22 +10,11 @@ Welcome to yet another example of a simple, beautiful website packed with visual
 
 ## 🎬 Methods
 
-This project performs a Web Application using the SCC (Simple, Clean, Complete) method, which aims to build a lean, clear and complete code in terms of resources. For this, it will use CSS-in-JSX, through Styled Components and Framer Motion. Through these libraries we reduce the code volume, increase its readability, prevent the existence of css class conflicts, while adding visual resources.
-
 ## 📋 Prerequisites
 
 * React
 * Styled-Components
 * Framer-Motion
-
-## 🔧 Installations
-
-* npm install normalize.css
-* npm install react-icons --save
-* npm install --save styled-components
-* npm install framer-motion
-* npm i react-video-js-player
-* npm i @emailjs/browser --save
 
 ## 🛠️ Built with
 
@@ -37,7 +22,7 @@ This project performs a Web Application using the SCC (Simple, Clean, Complete) 
 
 ## 📌 Version
 
-The full version was published in the repository, with no commits during the process.
+1.0
 
 ## ✒️ Author
 
