@@ -22,7 +22,7 @@ Welcome to yet another example of a simple, beautiful website packed with visual
 
 ## 📌 Version
 
-1.0
+This repository is basically a backup. From version 1.0 onwards there may be commits in order to improve the code.
 
 ## ✒️ Author
 
